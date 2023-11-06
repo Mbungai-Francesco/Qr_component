@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./screenshot.jpg)
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL:(https://github.com/Mbungai-Francesco/Qr_component)
+- Solution URL: (https://www.frontendmentor.io/solutions/margin-alignment--KmwWsY96A)
+- Live Site URL:(https://mbungai-francesco.github.io/Qr_component.github/)
 
 ## My process
 
